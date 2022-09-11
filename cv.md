@@ -27,7 +27,7 @@ I am a lawyer who decided to start a career with a clean sheet. My choice fell o
 - Testing (manual, automation)
 - Business analysis, Project management
 - Git, GitHub
-- Intellije IDEA, PyCharm, Visual Studio, VC Code
+- Intellij IDEA, PyCharm, Visual Studio, VC Code
 
 ---
 ## Code example
