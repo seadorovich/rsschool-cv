@@ -1,5 +1,6 @@
 # **Maryna Sidarovich**
 ## **Software engineer**
+---
 ### Contact information:
 ![Phone:](/rsschool-cv/icons-phone-25.png) 
 <sup>+375 29 648-54-56</sup>
@@ -15,3 +16,13 @@
 <sup>seadorovich#4856</sup>
 
 ---
+### About me
+I am a lawyer who decided to start a career with a clean sheet. My choice fell on the field of information technology, as perspective and in demand. I am attracted by the opportunity and the need to constantly learn and improve myself.
+
+---
+### Skills
+- HTML5, CSS3 (Bootstrap)
+- JavaScript (basics), Java (Spring Boot), Python (Django), C++ (basics)
+- Database management system (MySQL, MS SQL Server, SQLite3)
+- Testing (manual, automation)
+- Business analysis, Project management
