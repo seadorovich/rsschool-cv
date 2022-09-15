@@ -1,0 +1,11 @@
+* {
+box-sizing: border-box; 
+}
+body {
+margin-left: 10%;
+margin-right: 10%;
+}
+#main {
+display: flex;
+min-height: calc(100vh&nbsp;&mdash; 40vh);
+}
